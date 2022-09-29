@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/expenses-chart-component-tsgmEq6Rvf)
 - Live Site URL: [Add live site URL here](https://abdulelah-abacar.github.io/expenses-chart-component-main/)
 
 ## My process
